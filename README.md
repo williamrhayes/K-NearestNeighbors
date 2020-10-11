@@ -1,2 +1,2 @@
 # K-NearestNeighbors
-Learning about the K-Nearest Neighbors statistical technique
+Learning about the K-Nearest Neighbors statistical analysis technique
